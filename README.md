@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ComposeFest2021
 Using state in Jetpack Compose 본 폴더를 Android Studio를 이용해서 열어주세요.
 작업을 완료하고, push 해주세요.
@@ -39,3 +40,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+=======
+# -BasicsCodelab_2_2
+>>>>>>> 82af572e6685e5504588d395f6b64cb0bc273e7a
